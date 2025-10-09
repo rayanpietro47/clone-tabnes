@@ -1,5 +1,5 @@
 function Home () {
-    return <h1>mbappe, cristiano ronaldo, neymar.</h1>
+    return <h1>mbappe, cristiano ronaldo.</h1>
 }
 
 export default Home;
